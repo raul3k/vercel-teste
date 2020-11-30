@@ -4,6 +4,7 @@ function Home() {
     return <div>
         Home
         <Contador />
+        Nova branch
     </div>;
 }
 
